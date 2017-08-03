@@ -23,4 +23,4 @@ To View The Site go to:
 
 Note for the final Chapter I make a chnage to the home.hbs view to show the code going through the entire process. I put that code in a seperate file called home-cat.hbs.
 ////////////////////////////////////
-/*********************************************************/
+/***********************************/
